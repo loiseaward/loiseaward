@@ -1,12 +1,15 @@
-## hi! i'm loise
-discovering computer science one day at a time~
+# . ݁₊ ⊹ . ݁ hi! i'm loise . ⊹ ₊ ݁.
+~ discovering computer science one day at a time ~
 
-# about me:
+## about me ⋆｡𖦹°‧★
 uni *university of notre dame '29*
+
 majors *computer science & math*
+
 hobbies *arts crocheting dance*
+
 contact *loise.award@gmail.com*
 
-# currently exploring:
+## currently exploring 𓆝 𓆟 𓆞 𓆝 𓆟
 - full stack dev
 - ai agents 
