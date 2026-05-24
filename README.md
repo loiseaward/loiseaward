@@ -1,16 +1,12 @@
-## Hi there 👋
+## hi! i'm loise
+discovering computer science one day at a time~
 
-<!--
-**loiseaward/loiseaward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# about me:
+uni *university of notre dame '29*
+majors *computer science & math*
+hobbies *arts crocheting dance*
+contact *loise.award@gmail.com*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# currently exploring:
+- full stack dev
+- ai agents 
