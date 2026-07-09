@@ -12,4 +12,4 @@ contact *loise.award@gmail.com*
 
 ## currently exploring 𓆝 𓆟 𓆞 𓆝 𓆟
 - full stack dev
-- ai agents 
+- agentic ai
