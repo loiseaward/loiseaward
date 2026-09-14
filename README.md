@@ -1,5 +1,5 @@
 # . ݁₊ ⊹ . ݁ hi! i'm loise . ⊹ ₊ ݁.
-~ discovering computer science one day at a time ~
+~ computer science one day at a time ~
 
 ## about me ⋆｡𖦹°‧★
 uni *university of notre dame '29*
